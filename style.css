@@ -1,0 +1,17 @@
+#current_date{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+body{
+    text-align: center;
+}
+
+.list{
+    list-style: none;
+}
+
+.list-item{
+    color: red;
+    font-size: 23px;
+}
