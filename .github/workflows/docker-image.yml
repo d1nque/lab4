@@ -15,5 +15,5 @@ jobs:
       with:
         username: ${{ secrets.DOCKER_LOGIN }}
         password: ${{ secrets.DOCKER_PAT }}
-        repository: cloutnba2/lab4
+        repository: d1nque/lab4
         tags: latest, ${{ github.run_number }}
